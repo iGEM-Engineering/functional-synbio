@@ -5,8 +5,8 @@ The functional synthetic biology manifesto is a joint creation of the following 
 * Gael Chambonnier
 * Nikolaos Delkis
 * Isaac Guerreiro
-* Gonzalo Vidal Pena
 * Paul Ross
 * Vinoo Selvarajah
 * Noah Sprent
+* Gonzalo Vidal Pena
 * Alejandro Vignoni
